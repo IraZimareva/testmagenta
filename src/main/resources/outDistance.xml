@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<distance>
+    <fromCity>
+        <name>Volgograd</name>
+        <latitude>48.39</latitude>
+        <longitude>44.33</longitude>
+    </fromCity>
+    <toCity>
+        <name>Rostov</name>
+        <latitude>47.13</latitude>
+        <longitude>39.42</longitude>
+    </toCity>
+    <distance>474.2</distance>
+</distance>
