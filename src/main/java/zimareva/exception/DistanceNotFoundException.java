@@ -10,6 +10,6 @@ public class DistanceNotFoundException extends RuntimeException {
     }
 
     public DistanceNotFoundException(City from, City to){
-        super("Could not find distance between " + from + " and " + to);
+        super("Could not find distance between " + from.getName() + " and " + to.getName());
     }
 }
